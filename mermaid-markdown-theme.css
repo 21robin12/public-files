@@ -8,7 +8,7 @@
 .node circle,
 .node ellipse,
 .node polygon {
-  fill: #ECECFF;
+  fill: #aaaaaa;
   stroke: #CCCCFF;
   stroke-width: 1px;
 }
