@@ -1,3 +1,1 @@
-svg g.edgeLabel foreignObject {
-  overflow: visible;
-}
+svg g.edgeLabel foreignObject { overflow: visible; } svg g.label foreignObject { overflow: visible; }
